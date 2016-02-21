@@ -1,0 +1,28 @@
+name: Chinese Medical Center Maastricht
+favicon: null
+layout_spectrum: 0.9042664505541325
+typography_spectrum: 0.8362124697305262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.35689959954470396
+  lightness: 0.6442541177384555
+  saturation: 0.32138497731648386
+  rhythmicContrast: 0.7676227851770818
+purpose: []
